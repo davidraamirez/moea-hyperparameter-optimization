@@ -1,0 +1,8 @@
+sampler,total_duration_hours,mean_study_duration_min,mean_trial_duration_s,trials_per_minute
+nsgaiii,13.1,39.299,99.589,0.602
+random,14.417,43.252,96.285,0.623
+qmc,14.664,43.991,104.786,0.573
+cmaes,15.589,46.766,103.26,0.581
+nsgaii,15.597,46.79,104.026,0.577
+tpe,18.55,55.649,100.266,0.598
+gp,29.157,87.472,176.018,0.341

@@ -1,0 +1,8 @@
+sampler,COMPLETE,PRUNED,RUNNING
+cmaes,549,451,0
+gp,582,418,4
+nsgaii,529,471,0
+nsgaiii,470,530,0
+qmc,500,500,0
+random,534,466,0
+tpe,656,344,0

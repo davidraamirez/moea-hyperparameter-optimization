@@ -1,0 +1,8 @@
+sampler,mean_rank,median_rank,mean_hv,std_hv,mean_hv_norm,std_hv_norm,wins,indistinguishable_from
+tpe,2.4,2.0,0.2984,0.2474,0.8014,0.2257,7,"cmaes, gp, nsgaii, qmc, random, tpe"
+gp,3.95,4.0,0.2947,0.2465,0.5417,0.3659,3,"cmaes, gp, nsgaii, nsgaiii, qmc, random, tpe"
+cmaes,4.05,4.0,0.2965,0.2469,0.5742,0.3558,1,"cmaes, gp, nsgaii, nsgaiii, qmc, random, tpe"
+nsgaii,4.25,4.5,0.2965,0.2477,0.5125,0.3544,2,"cmaes, gp, nsgaii, nsgaiii, qmc, random, tpe"
+random,4.35,4.0,0.2963,0.2476,0.4548,0.3597,2,"cmaes, gp, nsgaii, nsgaiii, qmc, random, tpe"
+qmc,4.4,4.5,0.296,0.2458,0.4659,0.3297,2,"cmaes, gp, nsgaii, nsgaiii, qmc, random, tpe"
+nsgaiii,4.6,5.0,0.2964,0.2475,0.4395,0.3988,3,"cmaes, gp, nsgaii, nsgaiii, qmc, random"

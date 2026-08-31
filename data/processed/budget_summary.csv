@@ -1,0 +1,8 @@
+sampler,COMPLETE,PRUNED
+cmaes,177,123
+gp,184,116
+nsgaii,153,147
+nsgaiii,149,151
+qmc,143,157
+random,174,126
+tpe,187,113
